@@ -56,5 +56,5 @@ mv s3_copy.sh s3_copia.sh
 cp -r padre destino/
 #
 mv destino/padre/HIJO .
-#
+#ls
 ls destino/padre
