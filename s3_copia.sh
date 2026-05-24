@@ -15,16 +15,14 @@ cd ..
 # opción extendida y la opción abraviada:
 ls --all
 ls -a
-#
+#Ayuda del commando ls
 ls --help
-#
+#manual del comando ls
 man ls
 # ruta absoluta
-cd /workspaces/intro-unix-may-2025-online/padre
-#
-cd /
-#
-cd workspaces/
+cd ~/Github_UIDE/intro-unix-may-2025-online/padre
+#desde home abrimos directorios secuencialmente con cd
+cd Github_UIDE/
 cd intro-unix-may-2025-online/
 cd padre
 touch hijo
